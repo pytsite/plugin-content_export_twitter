@@ -1,0 +1,22 @@
+{
+  "description": {
+    "en": "Twitter Content Export",
+    "ru": "Экспорт контента в Twitter",
+    "uk": "Експорт контенту до Twitter"
+  },
+  "url": "https://github.com/pytsite/plugin-content_export_twitter",
+  "author": {
+    "name": "Alexander Shepetko",
+    "email": "a@shepetko.com",
+    "url": "https://shepetko.com"
+  },
+  "requires": {
+    "packages": [
+      "twython"
+    ],
+    "plugins": [
+      "content_export",
+      "twitter"
+    ]
+  }
+}
