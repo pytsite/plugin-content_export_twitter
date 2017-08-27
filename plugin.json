@@ -1,4 +1,6 @@
 {
+  "name": "plugins.content_export_twitter",
+  "version": "0.1.1",
   "description": {
     "en": "Twitter Content Export",
     "ru": "Экспорт контента в Twitter",
