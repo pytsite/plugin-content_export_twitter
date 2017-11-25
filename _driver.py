@@ -1,9 +1,9 @@
-"""PytSite Twitter Plugin Content Export Driver.
+"""PytSite Twitter Plugin Content Export Plugin
 """
 from frozendict import frozendict as _frozendict
 from twython import Twython as _Twython, TwythonError as _TwythonError
-from pytsite import logger as _logger, widget as _widget, router as _router
-from plugins import content_export as _content_export, content as _content, twitter as _twitter
+from pytsite import logger as _logger, router as _router
+from plugins import widget as _widget, content_export as _content_export, content as _content, twitter as _twitter
 
 __author__ = 'Alexander Shepetko'
 __email__ = 'a@shepetko.com'

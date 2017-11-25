@@ -1,4 +1,4 @@
-"""PytSite Twitter Content Export Driver.
+"""PytSite Twitter Content Export Plugin
 """
 
 __author__ = 'Alexander Shepetko'
@@ -12,7 +12,7 @@ def _init():
     from . import _driver
 
     # Resources
-    lang.register_package(__name__, alias='content_export_twitter')
+    lang.register_package(__name__)
 
     # Content export driver
     content_export.register_driver(_driver.Driver())
