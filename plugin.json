@@ -1,6 +1,6 @@
 {
   "name": "content_export_twitter",
-  "version": "1.1",
+  "version": "1.1.1",
   "description": {
     "en": "Twitter Content Export",
     "ru": "Экспорт контента в Twitter",
