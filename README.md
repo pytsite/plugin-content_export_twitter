@@ -4,9 +4,14 @@
 ## Changelog
 
 
+### 1.3 (2018-06-13)
+
+Support of `file-1.5`.
+
+
 ### 1.2 (2018-03-15)
 
-Support for `content_export-2.3`
+Support of `content_export-2.3`
 
 
 ### 1.1.1 (2018-01-26)
