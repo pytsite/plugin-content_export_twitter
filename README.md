@@ -4,6 +4,11 @@
 ## Changelog
 
 
+### 1.3.1 (2018-07-29)
+
+Unused import removed.
+
+
 ### 1.3 (2018-06-13)
 
 Support of `file-1.5`.

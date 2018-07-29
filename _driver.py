@@ -6,7 +6,7 @@ __license__ = 'MIT'
 
 from frozendict import frozendict as _frozendict
 from twython import Twython as _Twython, TwythonError as _TwythonError
-from pytsite import logger as _logger, router as _router
+from pytsite import logger as _logger
 from plugins import widget as _widget, content_export as _content_export, content as _content, twitter as _twitter
 
 
